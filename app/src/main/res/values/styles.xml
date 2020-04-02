@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+    </style>
+
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/transparent</item>
+        <item name="colorPrimaryDark">@color/transparent</item>
+        <item name="colorAccent">@color/transparent</item>
+        <item name="android:windowBackground">@color/bg_color</item>
+    </style>
+
+
+    <style name="PopupMenu" parent="Widget.AppCompat.Light.PopupMenu">
+    </style>
+
+
+</resources>

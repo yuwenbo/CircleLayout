@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_overlay" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleLayout">
+        <attr name="insideRadius" format="dimension"/>
+        <attr name="outsideRadius" format="dimension"/>
+        <attr name="childWidth" format="dimension"/>
+        <attr name="boundWidth" format="dimension"/>
+        <attr name="boundColor" format="color"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="centerDrawable" format="reference"/>
+    </declare-styleable>
+
+</resources>
